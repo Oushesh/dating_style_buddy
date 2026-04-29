@@ -5,7 +5,15 @@ We have a folder of: pictures.
 An API to a service called photofeeler that give you the best scoring for your for your apps: 
 https://www.photofeeler.com/
 
-The Key question is: how many girls need to match your photosfor you to get an appraisal of your likes on the apps.
+The Key question is: how many girls need to match your photos for you to get an appraisal of your likes on the apps.
 
 Archetype: Check and definition, style check.
+
+Economics of the photofeeler --> 
+
+The photofeeler.
+how much photos are needed? 
+what are the scores needed there? 
+
+
 
